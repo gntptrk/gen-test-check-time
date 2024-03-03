@@ -1,0 +1,25 @@
+{
+  "name": "gen-test-check-time",
+  "version": "1.0.0",
+  "description": "test check time by GEN",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gntptrk/gen-test-check-time.git"
+  },
+  "keywords": [
+    "gencheck"
+  ],
+  "author": "GEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gntptrk/gen-test-check-time/issues"
+  },
+  "homepage": "https://github.com/gntptrk/gen-test-check-time#readme",
+  "dependencies": {
+    "gen-check-time": "^1.0.0"
+  }
+}
